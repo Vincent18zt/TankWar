@@ -1,2 +1,2 @@
 # TankWar
-A new game about tank war based qt
+A new game about tank war based QT
